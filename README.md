@@ -2,6 +2,8 @@
 
 ClearPath é um aplicativo inovador voltado para a saúde, criado para ajudar fumantes a encontrar motivação para parar de fumar com o apoio de amigos e familiares. Utilizando princípios de gamificação e suporte social, ClearPath transforma o desafio de abandonar o vício do cigarro em uma jornada colaborativa rumo a uma vida mais saudável. ✨
 
+🎥 [Vídeo de UserFlow do Protótipo](https://www.youtube.com/watch?v=fWyxnjvOIXg)
+
 ---
 
 ## 🎨 Identidade Visual
